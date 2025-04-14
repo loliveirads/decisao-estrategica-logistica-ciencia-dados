@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "atividade-2-clusterizacao"
+version = "0.1.0"
+description = ""
+authors = ["Luiz Fernando <luizfsoliveira.lm@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+folium = "^0.19.5"
+geopy = "^2.4.1"
+
+
+[tool.poetry.group.dev.dependencies]
+pandas = "^2.2.3"
+scikit-learn = "^1.6.1"
+matplotlib = "^3.10.1"
+seaborn = "^0.13.2"
+notebook = "^7.4.0"
+ipykernel = "^6.29.5"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
