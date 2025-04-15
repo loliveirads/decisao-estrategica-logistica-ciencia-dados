@@ -51,7 +51,7 @@ atividade_2_clusterizacao/
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seuusuario/atividade_2_clusterizacao.git
+git clone https://github.com/loliveirads/decisao-estrategica-logistica-ciencia-dados.git
 ```
 
 2. Ative o ambiente virtual:
